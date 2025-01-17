@@ -1,0 +1,16 @@
+/* Reduce spacing between all headings and text */
+.rendered_html h1,
+.rendered_html h2,
+.rendered_html h3,
+.rendered_html h4,
+.rendered_html h5,
+.rendered_html h6 {
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+/* Reduce spacing between paragraphs */
+.rendered_html p {
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
